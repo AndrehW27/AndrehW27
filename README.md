@@ -1,13 +1,13 @@
 
 <!--![](https://github.com/AndrehW27/AndrehW27/blob/master/ReadmeImageGithub.jpg)
 
-<img src="https://github.com/AndrehW27/AndrehW27/blob/master/ReadmeImageGithub.jpg" width="600" height="300" />
+<img src="https://github.com/AndrehW27/AndrehW27/blob/master/ReadmeImageGithub.jpg" width="1200" height="300" />
 -->
 
 ### Hi there 👋 I'm André.
 
-<img src="https://i.pinimg.com/originals/5c/b9/9b/5cb99b410f314640ddf3470aaf8199e6.jpg" width="600" height="300" />
-https://i.pinimg.com/originals/5c/b9/9b/5cb99b410f314640ddf3470aaf8199e6.jpg
+<img src="https://external-preview.redd.it/lrO9QICCD20h2L5_p03-DqW6Nq25ahd1Dg2gYxhRW1c.png?auto=webp&s=67d764468ca5faa45c4b9f09e7f0347b5bf73f98" width="1200" height="300" />
+
 
 - 🔭 I’m currently working on ... becoming a good coder...👨🏻‍💻
 - 🌱 I’m currently learning ... Java and Angular...⌨️
