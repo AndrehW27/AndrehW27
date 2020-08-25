@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ### André Willian Gorgo de Carvalho 🧙🏼
 -->
 
-
+![image]()
 
 ### Hi there 👋 I'm André and...
 
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me: ...👔[linkedin][linkedin]
 
--Technologies I'm familiar with:
+- Technologies I'm familiar with:
 
 
 
