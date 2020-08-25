@@ -8,6 +8,7 @@
 - Technologies I'm familiar with:
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=andrehw27&show_icons=true&theme=merko)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrehw27&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
