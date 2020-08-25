@@ -1,5 +1,7 @@
 ### Hi there 👋 I'm André and...
 
+![](https://github.com/AndrehW27/AndrehW27/blob/master/ReadmeImageGithub.jpg)
+
 - 🔭 I’m currently working on ... becoming a good coder...👨🏻‍💻
 - 🌱 I’m currently learning ... Java and Angular...⌨️
 - 📫 How to reach me: ...👔[linkedin](https://www.linkedin.com/in/andrecarvalho3/)
