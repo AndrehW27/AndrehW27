@@ -1,7 +1,8 @@
 
 <!--![](https://github.com/AndrehW27/AndrehW27/blob/master/ReadmeImageGithub.jpg)-->
 
-<img src="https://github.com/AndrehW27/AndrehW27/blob/master/ReadmeImageGithub.jpg" width="450" height="200" />
+<img src="https://github.com/AndrehW27/AndrehW27/blob/master/ReadmeImageGithub.jpg" width="600" height="300" />
+
 ### Hi there 👋 I'm André and...
 
 - 🔭 I’m currently working on ... becoming a good coder...👨🏻‍💻
