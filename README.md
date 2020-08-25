@@ -15,13 +15,20 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+### André Willian Gorgo de Carvalho 🧙🏼
 -->
 
-### André Willian Gorgo de Carvalho 🧙🏼
 
-### Hi there 👋
 
-- 🔭 I’m currently working on ... becoming a good coder...
-- 🌱 I’m currently learning ... Java and Angular...
+### Hi there 👋 I'm André and...
 
-- 📫 How to reach me: ...
+- 🔭 I’m currently working on ... becoming a good coder...👨🏻‍💻
+- 🌱 I’m currently learning ... Java and Angular...⌨️
+
+- 📫 How to reach me: ...👔[linkedin][linkedin]
+
+-Technologies I'm familiar with:
+
+
+
+[linkedin]:https://www.linkedin.com/in/andrecarvalho3/
