@@ -6,11 +6,11 @@
 
 
 ### Hi there 👋 I'm André.
+<img src="https://external-preview.redd.it/lrO9QICCD20h2L5_p03-DqW6Nq25ahd1Dg2gYxhRW1c.png?auto=webp&s=67d764468ca5faa45c4b9f09e7f0347b5bf73f98" width="1200" height="300" />
 - 🔭 I’m currently working on ... becoming a good coder...👨🏻‍💻
 - 🌱 I’m currently learning ... Java and Angular...⌨️
 - 📫 How to reach me: ... 👔[linkedin](https://www.linkedin.com/in/andrecarvalho3/)
-
-<img src="https://external-preview.redd.it/lrO9QICCD20h2L5_p03-DqW6Nq25ahd1Dg2gYxhRW1c.png?auto=webp&s=67d764468ca5faa45c4b9f09e7f0347b5bf73f98" width="1200" height="300" />
+- Languages and tolls:
 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=andrehw27&show_icons=true&theme=algolia) 
