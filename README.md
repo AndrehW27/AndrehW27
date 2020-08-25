@@ -18,8 +18,6 @@ Here are some ideas to get you started:
 ### André Willian Gorgo de Carvalho 🧙🏼
 -->
 
-![image]()
-
 ### Hi there 👋 I'm André and...
 
 - 🔭 I’m currently working on ... becoming a good coder...👨🏻‍💻
@@ -28,6 +26,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...👔[linkedin][linkedin]
 
 - Technologies I'm familiar with:
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=andrehw27)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
