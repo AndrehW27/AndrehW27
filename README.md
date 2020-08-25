@@ -9,8 +9,8 @@
 - 🌱 I’m currently learning ... Java and Angular...⌨️
 - 📫 How to reach me: ...👔[linkedin](https://www.linkedin.com/in/andrecarvalho3/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrehw27&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats) 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=andrehw27&show_icons=true&theme=merko)   
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrehw27&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats) 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=andrehw27&show_icons=true&theme=algolia)   
 
 
 
