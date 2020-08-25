@@ -1,6 +1,8 @@
+<!--
+
 ### Hi there 👋
 
-<!--
+
 **AndrehW27/AndrehW27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +16,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### André Willian Gorgo de Carvalho 🧙🏼
+
+### Hi there 👋
+
+- 🔭 I’m currently working on ... becoming a good coder...
+- 🌱 I’m currently learning ... Java and Angular...
+
+- 📫 How to reach me: ...
