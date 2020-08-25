@@ -2,12 +2,10 @@
 
 - 🔭 I’m currently working on ... becoming a good coder...👨🏻‍💻
 - 🌱 I’m currently learning ... Java and Angular...⌨️
-
 - 📫 How to reach me: ...👔[linkedin](https://www.linkedin.com/in/andrecarvalho3/)
 
-- Technologies I'm familiar with:
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrehw27&layout=compact)](https://github.com/anuraghazra/github-readme-stats) ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=andrehw27&show_icons=true&theme=merko)   
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrehw27&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=andrehw27&show_icons=true&theme=merko)   
 
 
 
