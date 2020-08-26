@@ -4,10 +4,10 @@
 <img src="https://github.com/AndrehW27/AndrehW27/blob/master/ReadmeImageGithub.jpg" width="1200" height="300" />
 -->
 
+<img src="https://3.bp.blogspot.com/-FCWM6DaA9Z0/XHKV0tcHI8I/AAAAAAAAC0Y/GwlFp0FkVh0PkohEj0BvXwVFy3P2CyNdgCKgBGAs/w3840-h1600-p-k-no-nu/colorful-dark-abstract-polygon-3d-4k-39.jpg" width="1200" height="30" />
 
 ### Hi there 👋 I'm André.
-<!--<img src="https://external-preview.redd.it/lrO9QICCD20h2L5_p03-DqW6Nq25ahd1Dg2gYxhRW1c.png?auto=webp&s=67d764468ca5faa45c4b9f09e7f0347b5bf73f98" width="1200" height="300" />
--->
+
 - 🔭 I’m currently working on ... becoming a good coder...👨🏻‍💻
 - 🌱 I’m currently learning ... Java/Srping Boot and Angular/Bootstrap...⌨️
 
