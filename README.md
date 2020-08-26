@@ -25,9 +25,9 @@
 <!--GIT--><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" width="30" height="30" />
  </P>                                                                                            
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=andrehw27&show_icons=true&theme=algolia) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrehw27&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats) 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrehw27&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats) 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=andrehw27&show_icons=true&theme=algolia) 
   
 
 
