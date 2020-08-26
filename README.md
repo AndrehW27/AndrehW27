@@ -9,9 +9,9 @@
 <!--<img src="https://external-preview.redd.it/lrO9QICCD20h2L5_p03-DqW6Nq25ahd1Dg2gYxhRW1c.png?auto=webp&s=67d764468ca5faa45c4b9f09e7f0347b5bf73f98" width="1200" height="300" />
 -->
 - 🔭 I’m currently working on ... becoming a good coder...👨🏻‍💻
-- 🌱 I’m currently learning ... Java and Angular...⌨️
+- 🌱 I’m currently learning ... Java/Srping Boot and Angular/Bootstrap...⌨️
 
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/andrecarvalho3/"><img src="https://imageog.flaticon.com/icons/png/512/174/174857.png?size=1200x630f&pad=10,10,10,10&ext=png&bg=FFFFFFFF" width="60" height="30"/></a>
+<!--- 📫 How to reach me: <a href="https://www.linkedin.com/in/andrecarvalho3/"><img src="https://imageog.flaticon.com/icons/png/512/174/174857.png?size=1200x630f&pad=10,10,10,10&ext=png&bg=FFFFFFFF" width="60" height="30"/></a>-->
 
 ### Languages and tools:
 <P>
