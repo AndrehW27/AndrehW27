@@ -10,9 +10,11 @@
 -->
 - 🔭 I’m currently working on ... becoming a good coder...👨🏻‍💻
 - 🌱 I’m currently learning ... Java and Angular...⌨️
-- 📫 How to reach me: ... [linkedin](https://www.linkedin.com/in/andrecarvalho3/)👔
+- 📫 How to reach me: ...
 
-### Languages and tolls:
+<a href="https://www.linkedin.com/in/andrecarvalho3/"><img src="https://imageog.flaticon.com/icons/png/512/174/174857.png?size=1200x630f&pad=10,10,10,10&ext=png&bg=FFFFFFFF" width="60" height="30"/></a>
+
+### Languages and tools:
 <P>
 <!--JAVASCRPIT--><img src="https://www.kindpng.com/picc/m/67-678384_transparent-javascript-icon-png-png-download.png" width="30" height="30" />
 <!--HTML--><img src="https://cdn.iconscout.com/icon/free/png-512/html5-10-569380.png" width="30" height="30" />
