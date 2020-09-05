@@ -9,7 +9,7 @@
 ### Hi there 👋 I'm André.
 
 - 🔭 I’m currently working on ... becoming a good coder...👨🏻‍💻
-- 🌱 I’m currently learning ... Java/Srping Boot and Angular/Bootstrap...⌨️
+- 🌱 I’m currently learning ... Java/Spring Boot and Angular/Bootstrap...⌨️
 
 <!--- 📫 How to reach me: <a href="https://www.linkedin.com/in/andrecarvalho3/"><img src="https://imageog.flaticon.com/icons/png/512/174/174857.png?size=1200x630f&pad=10,10,10,10&ext=png&bg=FFFFFFFF" width="60" height="30"/></a>-->
 
