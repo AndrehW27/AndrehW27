@@ -22,6 +22,7 @@
 <!--SPRINGBOOT--><img src="https://miro.medium.com/max/300/1*DeBhsZUhS7RPLwyd1-Ul8A.png" width="30" height="30" />
 <!--MYSQL--><img src="https://f0.pngfuel.com/png/747/798/blue-and-white-happy-new-year-text-mysql-png-clip-art-thumbnail.png" width="30" height="30" />
 <!--ANGULAR--><img src="https://seeklogo.com/images/A/angular-logo-B76B1CDE98-seeklogo.com.png" width="30" height="30" />
+<!--REACT--><img src="https://www.pinclipart.com/picdir/middle/537-5374089_react-js-logo-clipart.png" width="30" height="30" />
 <!--BOOTSTRAP--><img src="https://getbootstrap.com/docs/4.1/assets/brand/bootstrap-social-logo.png" width="30" height="30" />
 <!--GIT--><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" width="30" height="30" />
  </P>                                                                                            
