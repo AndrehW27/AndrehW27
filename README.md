@@ -1,11 +1,11 @@
 👋 Hi there! I'm André Willian
-💻 Full-Stack Developer | MEAN Stack | Salesforce (LWC & Apex)
+💻 Full-Stack Developer | MEAN | MERN Stack | Salesforce (LWC & Apex)
 
 🚀 Passionate about building scalable web applications and optimizing business solutions with Salesforce. With expertise in MongoDB, Express.js, Angular, Node.js, and Lightning Web Components (LWC) with Apex, I excel at building dynamic full-stack applications with seamless user experiences.
 
 🔹 Tech Stack:
 
-Frontend: Angular, Lightning Web Components (LWC), HTML, CSS, TypeScript
+Frontend: Angular, React, Lightning Web Components (LWC), HTML, CSS, TypeScript
 Backend: Node.js, Express.js, Apex
 Database: MongoDB, SQL
 Dev Tools: Git, VS Code, Insomnia
