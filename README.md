@@ -6,8 +6,8 @@
 🔹 Tech Stack:
 
 Frontend: Angular, React, Lightning Web Components (LWC), HTML, CSS, TypeScript<br>
-Backend: Node.js, Express.js, Apex<br>
-Database: MongoDB, SQL<br>
+Backend: Node.js, Express.js, Apex, Java<br>
+Database: MongoDB, MySQL, SOQL<br>
 Dev Tools: Git, VS Code, Insomnia<br><br>
 🔍 Always exploring new technologies and best practices in full-stack and Salesforce development.
 
